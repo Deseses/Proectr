@@ -6,24 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/SamplesResources/Scenes/0-Main.unity
-    guid: a09cb257d566c489595b16ab37547666
-  - enabled: 1
-    path: Assets/Scenes/Computer block.unity
-    guid: 074a93f99417aa44692e6e2bc5b8281e
-  - enabled: 1
-    path: Assets/Scenes/Computer tablet.unity
-    guid: 83aedd267e790cc4093ad6d878b52041
-  - enabled: 1
-    path: Assets/Scenes/Laptop.unity
-    guid: 9ebbdab33c3c87f478551646588b8aca
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/List.unity
     guid: d4d5444f5ae38cb4491dc755468280b2
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
     path: Assets/Scenes/Telefone.unity
     guid: 6087b2b5c36765c4798c8b9be44f4152
+  - enabled: 1
+    path: Assets/Scenes/Laptop.unity
+    guid: 9ebbdab33c3c87f478551646588b8aca
+  - enabled: 1
+    path: Assets/Scenes/Computer tablet.unity
+    guid: 83aedd267e790cc4093ad6d878b52041
+  - enabled: 1
+    path: Assets/Scenes/Computer block.unity
+    guid: 074a93f99417aa44692e6e2bc5b8281e
   m_configObjects: {}
